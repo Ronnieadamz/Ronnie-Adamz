@@ -1,0 +1,274 @@
+<header id="SITE_HEADER" class="fc1" data-is-mobile="false" data-state="transition-allowed" data-site-width="980" data-header-top="0">
+<div id="SITE_HEADERcenteredContent" class="fc1centeredContent">
+<div id="SITE_HEADERinlineContent" class="fc1inlineContent">
+<div id="SITE_HEADERinlineContent-gridWrapper" data-mesh-internal="true">
+<div id="SITE_HEADERinlineContent-gridContainer" data-mesh-internal="true">
+<div id="Cntnr1" class="style-k2elx56w">
+<div id="Cntnr1inlineContent" class="style-k2elx56winlineContent">
+<div id="Cntnr1inlineContent-gridWrapper" data-mesh-internal="true">
+<div id="Cntnr1inlineContent-gridContainer" data-mesh-internal="true">
+<div id="comp-k2eltokt" class="txtNew" data-packed="true">
+<h1 class="font_0">WE ARE THE WORLD&nbsp;</h1>
+<h1 class="font_0">&nbsp;<span class="color_18">let's hill the World</span></h1>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="DrpDwnMn0" class="hidden-during-prewarmup style-k2ercuyf" dir="ltr" data-stretch-buttons-to-menu-width="true" data-same-width-buttons="false" data-num-items="6" data-menuborder-y="0" data-menubtn-border="0" data-ribbon-els="0" data-label-pad="0" data-ribbon-extra="0" data-drophposition="" data-dropalign="right" data-state="right notMobile" data-dropmode="dropDown"><nav id="DrpDwnMn0navContainer" class="style-k2ercuyfnavContainer" aria-label="Site">
+<ul id="DrpDwnMn0itemsContainer" class="style-k2ercuyfitemsContainer">
+<li id="DrpDwnMn00" class="style-k2ercuyfrepeaterButton" data-direction="ltr" data-listposition="left" data-data-id="bmircd" data-state="menu selected idle link notMobile" data-original-gap-between-text-and-btn="0" aria-hidden="false">
+<div class="style-k2ercuyfrepeaterButton_shade">&nbsp;</div>
+<div id="DrpDwnMn00bg" class="style-k2ercuyfrepeaterButtonbg">
+<p id="DrpDwnMn00label" class="style-k2ercuyfrepeaterButtonlabel"><strong>HOME</strong></p>
+</div>
+</li>
+<li id="DrpDwnMn01" class="style-k2ercuyfrepeaterButton" data-direction="ltr" data-listposition="center" data-data-id="dataItem-k2flubom" data-state="menu  idle link notMobile" data-original-gap-between-text-and-btn="2" aria-hidden="false">
+<div class="style-k2ercuyfrepeaterButton_shade">&nbsp;</div>
+<div id="DrpDwnMn01bg" class="style-k2ercuyfrepeaterButtonbg">
+<p id="DrpDwnMn01label" class="style-k2ercuyfrepeaterButtonlabel">GALLERY</p>
+</div>
+</li>
+<li id="DrpDwnMn02" class="style-k2ercuyfrepeaterButton" data-direction="ltr" data-listposition="center" data-data-id="bmi1v6" data-state="menu  idle link notMobile" data-original-gap-between-text-and-btn="1" aria-hidden="false">
+<div class="style-k2ercuyfrepeaterButton_shade">&nbsp;</div>
+<div id="DrpDwnMn02bg" class="style-k2ercuyfrepeaterButtonbg">
+<p id="DrpDwnMn02label" class="style-k2ercuyfrepeaterButtonlabel">ABOUT US</p>
+</div>
+</li>
+<li id="DrpDwnMn03" class="style-k2ercuyfrepeaterButton" data-direction="ltr" data-listposition="center" data-data-id="bmird4" data-state="menu  idle link notMobile" data-original-gap-between-text-and-btn="2" aria-hidden="false">
+<div class="style-k2ercuyfrepeaterButton_shade">&nbsp;</div>
+<div id="DrpDwnMn03bg" class="style-k2ercuyfrepeaterButtonbg">
+<p id="DrpDwnMn03label" class="style-k2ercuyfrepeaterButtonlabel">PROJECTS</p>
+</div>
+</li>
+<li id="DrpDwnMn04" class="style-k2ercuyfrepeaterButton" data-direction="ltr" data-listposition="center" data-data-id="bmi9it" data-state="menu  idle link notMobile" data-original-gap-between-text-and-btn="1" aria-hidden="false">
+<div class="style-k2ercuyfrepeaterButton_shade">&nbsp;</div>
+<div id="DrpDwnMn04bg" class="style-k2ercuyfrepeaterButtonbg">
+<p id="DrpDwnMn04label" class="style-k2ercuyfrepeaterButtonlabel">GET INVOLVED</p>
+</div>
+</li>
+<li id="DrpDwnMn05" class="style-k2ercuyfrepeaterButton" data-direction="ltr" data-listposition="right" data-data-id="bmi3gn" data-state="menu  idle link notMobile" data-original-gap-between-text-and-btn="2" aria-hidden="false">
+<div class="style-k2ercuyfrepeaterButton_shade">&nbsp;</div>
+<div id="DrpDwnMn05bg" class="style-k2ercuyfrepeaterButtonbg">
+<p id="DrpDwnMn05label" class="style-k2ercuyfrepeaterButtonlabel">DONATE</p>
+</div>
+</li>
+<li id="DrpDwnMn0__more__" class="style-k2ercuyfrepeaterButton" data-listposition="right" data-state="menu  idle header notMobile" data-original-gap-between-text-and-btn="1" aria-hidden="true">
+<div class="style-k2ercuyfrepeaterButton_shade">&nbsp;</div>
+<div id="DrpDwnMn0__more__bg" class="style-k2ercuyfrepeaterButtonbg">&nbsp;</div>
+</li>
+</ul>
+<div id="DrpDwnMn0moreButton" class="style-k2ercuyfmoreButton">&nbsp;</div>
+<div id="DrpDwnMn0dropWrapper" class="style-k2ercuyfdropWrapper" data-drophposition="" data-dropalign="right">&nbsp;</div>
+</nav></div>
+</div>
+</div>
+</div>
+</div>
+</header><footer id="SITE_FOOTER" class="fc1_footer fc1" tabindex="-1" data-site-width="980" data-fixedposition="false" data-isrunninginmobile="false" data-state=" ">
+<div id="SITE_FOOTERscreenWidthBackground" class="fc1screenWidthBackground">&nbsp;</div>
+<div id="SITE_FOOTERcenteredContent" class="fc1centeredContent">
+<div id="SITE_FOOTERbg" class="fc1bg">&nbsp;</div>
+<div id="SITE_FOOTERinlineContent" class="fc1inlineContent">
+<div id="SITE_FOOTERinlineContent-gridWrapper" data-mesh-internal="true">
+<div id="SITE_FOOTERinlineContent-gridContainer" data-mesh-internal="true">
+<div id="iecjh2m5" class="bgis3">&nbsp;</div>
+<div id="SITE_STRUCTURE_WRichText_1" class="txtNew" data-packed="true">
+<p class="font_9"><span class="color_11"><strong>&copy;</strong> 2020 by Ronnie Adamz</span></p>
+<p class="font_9"><span class="color_11"><em><strong>All Copyrights reserved</strong></em>&nbsp;</span></p>
+<p class="font_9"><strong><em><span class="color_11">Ronnie Adamz We are the World foundation</span></em></strong></p>
+</div>
+<div id="SITE_STRUCTURE_LinkBar_0" class="lb1" data-is-responsive="false" data-hide-prejs="true">
+<ul id="SITE_STRUCTURE_LinkBar_0itemsContainer" class="lb1itemsContainer" aria-label="Social bar">
+<li id="SITE_STRUCTURE_LinkBar_00image" class="lb1imageItem"><a id="SITE_STRUCTURE_LinkBar_00imagelink" class="lb1imageItemlink" href="mailto:hilltheworldfoundation@gmail.com?subject=Hilltheworldfoundation" target="_self" data-content="hilltheworldfoundation@gmail.com" data-type="mail"><img id="SITE_STRUCTURE_LinkBar_00imageimageimage" src="https://static.wixstatic.com/media/36a4d3_2ae8424d928f494d83579a2bcc4d22c9~mv2.png/v1/fill/w_25,h_25,al_c,q_85,usm_0.66_1.00_0.01/36a4d3_2ae8424d928f494d83579a2bcc4d22c9~mv2.webp" alt="Mail us at" data-type="image" /></a></li>
+<li id="SITE_STRUCTURE_LinkBar_01image" class="lb1imageItem"><a id="SITE_STRUCTURE_LinkBar_01imagelink" class="lb1imageItemlink" href="https://twitter.com/WeAreTh97866922" target="_blank" rel="nofollow noopener" data-content="https://twitter.com/WeAreTh97866922" data-type="external"><img id="SITE_STRUCTURE_LinkBar_01imageimageimage" src="https://static.wixstatic.com/media/59687ffffc2042f885062ce2b0744381.png/v1/fill/w_25,h_25,al_c,q_85,usm_0.66_1.00_0.01/59687ffffc2042f885062ce2b0744381.webp" alt="Twitter" data-type="image" /></a></li>
+<li id="SITE_STRUCTURE_LinkBar_02image" class="lb1imageItem"><a id="SITE_STRUCTURE_LinkBar_02imagelink" class="lb1imageItemlink" href="https://www.instagram.com/wearetheworldfoundation/" target="_blank" rel="nofollow noopener" data-content="https://www.instagram.com/wearetheworldfoundation/" data-type="external"><img id="SITE_STRUCTURE_LinkBar_02imageimageimage" src="https://static.wixstatic.com/media/9f9c321c774844b793180620472aa4f1.png/v1/fill/w_25,h_25,al_c,q_85,usm_0.66_1.00_0.01/9f9c321c774844b793180620472aa4f1.webp" alt="Instagram" data-type="image" /></a></li>
+<li id="SITE_STRUCTURE_LinkBar_03image" class="lb1imageItem"><a id="SITE_STRUCTURE_LinkBar_03imagelink" class="lb1imageItemlink" href="https://www.facebook.com/Ronnie-Adamz-106208974115639/" target="_blank" rel="nofollow noopener" data-content="https://www.facebook.com/Ronnie-Adamz-106208974115639/" data-type="external"><img id="SITE_STRUCTURE_LinkBar_03imageimageimage" src="https://static.wixstatic.com/media/e316f544f9094143b9eac01f1f19e697.png/v1/fill/w_25,h_25,al_c,q_85,usm_0.66_1.00_0.01/e316f544f9094143b9eac01f1f19e697.webp" alt="Facebook" data-type="image" /></a></li>
+</ul>
+</div>
+<div id="WRchTxt9" class="txtNew" data-packed="true">
+<p class="font_8"><span class="color_18">​​Call us:</span></p>
+<p class="font_8"><span class="color_11">+256 750318042 +971 543313784</span></p>
+</div>
+<div id="WRchTxtb" class="txtNew" data-packed="true">
+<p class="font_8"><span class="color_18">​Find us:&nbsp;</span></p>
+<p class="font_8"><span class="color_11">Kampala Uganda - 6HCR+HF Kampala, Uganda</span></p>
+<p class="font_8"><span class="color_11">UAE - Sharjah Industrial Area 15</span></p>
+</div>
+<div id="VrtclLn3" class="vl1" data-is-responsive="false">&nbsp;</div>
+<div id="VrtclLn4" class="vl1" data-is-responsive="false">&nbsp;</div>
+<div id="VrtclLn5" class="vl1" data-is-responsive="false">&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<div id="PAGES_CONTAINERscreenWidthBackground" class="pc1screenWidthBackground">&nbsp;</div>
+<div id="PAGES_CONTAINERcenteredContent" class="pc1centeredContent">
+<div id="PAGES_CONTAINERinlineContent" class="pc1inlineContent">
+<div id="mainPage" class="p2" data-ismobile="false" data-is-mesh-layout="true">
+<div id="mainPagebg" class="p2bg">&nbsp;</div>
+<div id="mainPageinlineContent" class="p2inlineContent">
+<div id="mainPageinlineContent-gridWrapper" data-mesh-internal="true">
+<div id="mainPageinlineContent-gridContainer" data-mesh-internal="true">
+<div id="SldShwGllry2" class="ssg2" data-gallery-id="SldShwGllry2" data-image-mode="clipImage" data-height-diff="0" data-width-diff="0" data-state="hidePlayButton autoplayOn notMobile desktopView touchRollOut ">
+<div class="ssg2_border">&nbsp;</div>
+<div id="SldShwGllry2itemsContainer" class="ssg2itemsContainer" data-gallery-id="SldShwGllry2">
+<div id="SldShwGllry2dataItem-k2fn3z782" class="ssg2imageItem" data-image-index="9" data-displayer-width="960" data-displayer-height="678" data-displayer-uri="36a4d3_8241ff6d0c494e5190d02a5b265b0a31~mv2.jpg" data-height-diff="0" data-width-diff="0" data-bottom-gap="0" data-image-wrapper-right="0" data-image-wrapper-left="0" data-image-wrapper-top="0" data-image-wrapper-bottom="0" data-margin-to-container="0" data-is-responsive="false" data-state="notShowPanel desktopView  unselected clipImage noTransition normal noLink">
+<div id="SldShwGllry2dataItem-k2fn3z782imageWrapper" class="ssg2imageItemimageWrapper">
+<div id="SldShwGllry2dataItem-k2fn3z782zoom" class="ssg2imageItemzoom">
+<div id="SldShwGllry2dataItem-k2fn3z782image" class="ssg2imageItemimage" data-has-bg-scroll-effect="" data-style="position:relative;overflow:hidden"><img id="SldShwGllry2dataItem-k2fn3z782imageimage" alt="children-663392_960_720" data-type="image" /></div>
+</div>
+</div>
+<div id="SldShwGllry2dataItem-k2fn3z782panel" class="ssg2imageItem_pnl ssg2imageItempanel">&nbsp;</div>
+</div>
+<div id="SldShwGllry2image1606" class="ssg2imageItem" data-image-index="7" data-displayer-width="1300" data-displayer-height="716" data-displayer-uri="214ec6_7884e60cb5ecadf9d7b0bfad1916a39b.jpg" data-height-diff="0" data-width-diff="0" data-bottom-gap="0" data-image-wrapper-right="0" data-image-wrapper-left="0" data-image-wrapper-top="0" data-image-wrapper-bottom="0" data-margin-to-container="0" data-is-responsive="false" data-state="notShowPanel desktopView  unselected clipImage noTransition normal noLink">
+<div id="SldShwGllry2image1606imageWrapper" class="ssg2imageItemimageWrapper">
+<div id="SldShwGllry2image1606zoom" class="ssg2imageItemzoom">
+<div id="SldShwGllry2image1606image" class="ssg2imageItemimage" data-has-bg-scroll-effect="" data-style="position:relative;overflow:hidden"><img id="SldShwGllry2image1606imageimage" src="https://static.wixstatic.com/media/214ec6_7884e60cb5ecadf9d7b0bfad1916a39b.jpg/v1/fill/w_980,h_556,al_c,q_85,usm_0.66_1.00_0.01/214ec6_7884e60cb5ecadf9d7b0bfad1916a39b.webp" alt="" data-type="image" /></div>
+</div>
+</div>
+<div id="SldShwGllry2image1606panel" class="ssg2imageItem_pnl ssg2imageItempanel">&nbsp;</div>
+</div>
+<div id="SldShwGllry2dataItem-k2fn3z781" class="ssg2imageItem" data-image-index="8" data-displayer-width="460" data-displayer-height="345" data-displayer-uri="36a4d3_c4e06caabdba427a8d8e26fd7f5a6814~mv2.jpg" data-height-diff="0" data-width-diff="0" data-bottom-gap="0" data-image-wrapper-right="0" data-image-wrapper-left="0" data-image-wrapper-top="0" data-image-wrapper-bottom="0" data-margin-to-container="0" data-is-responsive="false" data-state="notShowPanel desktopView  unselected clipImage noTransition normal noLink">
+<div id="SldShwGllry2dataItem-k2fn3z781imageWrapper" class="ssg2imageItemimageWrapper">
+<div id="SldShwGllry2dataItem-k2fn3z781zoom" class="ssg2imageItemzoom">
+<div id="SldShwGllry2dataItem-k2fn3z781image" class="ssg2imageItemimage" data-has-bg-scroll-effect="" data-style="position:relative;overflow:hidden"><img id="SldShwGllry2dataItem-k2fn3z781imageimage" src="https://static.wixstatic.com/media/36a4d3_c4e06caabdba427a8d8e26fd7f5a6814~mv2.jpg/v1/fill/w_644,h_365,al_c,lg_1,q_80/36a4d3_c4e06caabdba427a8d8e26fd7f5a6814~mv2.webp" alt="dentalclinicc20081125ia" data-type="image" /></div>
+</div>
+</div>
+<div id="SldShwGllry2dataItem-k2fn3z781panel" class="ssg2imageItem_pnl ssg2imageItempanel">
+<h3 id="SldShwGllry2dataItem-k2fn3z781title" class="ssg2imageItemtitle" aria-hidden="true">dentalclinicc20081125ia</h3>
+<p id="SldShwGllry2dataItem-k2fn3z781Description" class="ssg2imageItemdescription">&nbsp;</p>
+</div>
+</div>
+</div>
+<div class="ssg2_buttons">&nbsp;</div>
+<div class="ssg2_helpers">
+<div id="SldShwGllry2autoplay" class="ssg2autoplay" data-gallery-id="SldShwGllry2">&nbsp;</div>
+<div id="SldShwGllry2counter" class="ssg2counter" data-gallery-id="SldShwGllry2">9/18</div>
+</div>
+</div>
+<div id="Cntnr3" class="c1">
+<div class="c1_fl c1_ribbon">&nbsp;</div>
+<div class="c1_fr c1_ribbon">&nbsp;</div>
+<div id="Cntnr3bg" class="c1bg">&nbsp;</div>
+<div id="Cntnr3inlineContent" class="c1inlineContent">
+<div id="Cntnr3inlineContent-gridWrapper" data-mesh-internal="true">
+<div id="Cntnr3inlineContent-gridContainer" data-mesh-internal="true">
+<div id="WRchTxt1o" class="txtNew" data-packed="true">
+<h4 class="font_4"><strong><span class="color_11">SUPPORT THE CHILDREN</span></strong></h4>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="FvGrdLn2" class="hl4" data-border-width="6px">&nbsp;</div>
+<div id="WRchTxt7-8w9" class="txtNew" data-packed="true">
+<h1 class="font_0">CHILDREN</h1>
+</div>
+<div id="WRchTxt8-mk8" class="txtNew" data-packed="true">
+<h1 class="font_0"><span class="color_14"><span class="color_15">OF</span><span class="color_15">&nbsp;</span></span><strong><span class="color_11">AFRICA</span></strong></h1>
+</div>
+<div id="comp-k6rqz538" class="style-k6rqz55v">
+<div id="comp-k6rqz538container" class="style-k6rqz55vcontainer">
+<div id="comp-k6rqz538balata" class="style-k6rqz55vbalata" data-page-id="mainPage" data-enable-video="true" data-bg-effect-name="" data-media-type="WixVideo" data-use-clip-path="" data-needs-clipping="" data-wix-video-layout="true">
+<div id="comp-k6rqz538balatabgcolor" class="bgColor">&nbsp;</div>
+<div id="comp-k6rqz538balatamedia" class="bgMedia" data-has-bg-effect="" data-fitting="fill" data-align="center" data-container-id="comp-k6rqz538" data-page-id="mainPage" data-media-comp-type="webgl">
+<div id="comp-k6rqz538balatamediawebgl" class="webgl">&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+<div id="Cntnrn" class="c3">
+<div class="c3_fr c3_ribbon">&nbsp;</div>
+<div id="Cntnrnbg" class="c3bg">&nbsp;</div>
+<div id="CntnrninlineContent" class="c3inlineContent">
+<div id="CntnrninlineContent-gridWrapper" data-mesh-internal="true">
+<div id="CntnrninlineContent-gridContainer" data-mesh-internal="true">
+<div id="WRchTxt1" class="txtNew" data-packed="true">
+<h2 class="font_2"><span class="color_15">School Of Promise Project</span></h2>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="Cntnr2" class="c2">
+<div id="Cntnr2bg" class="c2bg">&nbsp;</div>
+<div id="Cntnr2inlineContent" class="c2inlineContent">
+<div id="Cntnr2inlineContent-gridWrapper" data-mesh-internal="true">
+<div id="Cntnr2inlineContent-gridContainer" data-mesh-internal="true">
+<div id="WRchTxt3" class="txtNew" data-packed="true">
+<p class="font_8">*It's all about trust*<br />Have you thought of working for a charity, try now.</p>
+<p class="font_8">We are Mind. And we only exist because of the amazing support of people like you</p>
+<p class="font_8">We want you to know that we really value your support, whether that&rsquo;s through taking action, giving up your time, being a member, fundraising on our behalf, making a gift in your will, supporting our s donations. We are committed to treating you with respect and openness, so we've made a promise to you.......</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="comp-k2fllax2" class="style-k2flm6gp" data-has-iframe="true"><iframe id="comp-k2fllax2iframe" class="style-k2flm6gpiframe" title="iPlayerHD Video Hosting" src="https://iplayerhd.com/player/playlist/wix?cacheKiller=1582021903276&amp;compId=comp-k2fllax2&amp;currency=AED&amp;deviceType=desktop&amp;height=226&amp;instance=wWYc5sPV5G3rxuFor35RZEw84G12EOZFjmHeyi7EwIM.eyJpbnN0YW5jZUlkIjoiNzc0NzAzM2EtYzk2OS00NDkyLTk0Y2UtYjgzZmUxMzc2N2ZmIiwiYXBwRGVmSWQiOiIxMmUxOGNhYi0yMDBiLWU4YmItYmQ3Mi1jZTUzOTg4OTBmYTQiLCJzaWduRGF0ZSI6IjIwMjAtMDItMThUMTA6MzY6MTEuNTMxWiIsImRlbW9Nb2RlIjpmYWxzZSwiYWlkIjoiYzFiNjJjZDMtMDIxNy00YjQ2LWI2MDQtY2MzZmU3MmU2ZDFkIiwic2l0ZU93bmVySWQiOiIzNmE0ZDM4OC1hOTM3LTQ5MTAtOGE3OS0zNjE2M2ExMjUxMzcifQ&amp;locale=en&amp;pageId=mainPage&amp;siteRevision=35&amp;tz=Asia%2FDubai&amp;viewMode=site&amp;width=403" name="comp-k2fllax2" width="300" height="150" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen" aria-label="iPlayerHD Video Hosting" data-mce-fragment="1"></iframe>
+<div id="comp-k2fllax2overlay" class="style-k2flm6gpoverlay">&nbsp;</div>
+</div>
+<div id="WPht0-dis" class="ca1" title="III.png" data-is-responsive="false" data-display-mode="fill" data-content-padding-horizontal="0" data-content-padding-vertical="0" data-exact-height="110">
+<div id="WPht0-dislink" class="ca1link"><img id="WPht0-disimgimage" src="https://static.wixstatic.com/media/84770f_b25341fba0ec4e6591393061cf5cef8e.png/v1/fill/w_105,h_110,al_c,q_85,usm_0.66_1.00_0.01/84770f_b25341fba0ec4e6591393061cf5cef8e.webp" alt="" data-type="image" /></div>
+</div>
+<div id="Cntnra" class="c1">
+<div class="c1_fl c1_ribbon">&nbsp;</div>
+<div class="c1_fr c1_ribbon">&nbsp;</div>
+<div id="Cntnrabg" class="c1bg">&nbsp;</div>
+<div id="CntnrainlineContent" class="c1inlineContent">
+<div id="CntnrainlineContent-gridWrapper" data-mesh-internal="true">
+<div id="CntnrainlineContent-gridContainer" data-mesh-internal="true">
+<div id="StBttn4" class="b2" data-align="center" data-disabled="false" data-margin="0" data-should-use-flex="true" data-width="126" data-height="31" data-state="desktop shouldUseFlex center"><a id="StBttn4link" class="g-transparent-a b2link" href="http://paypal.me/hilltheworldug" target="_blank" rel="nofollow noopener" data-content="http://paypal.me/hilltheworldug" data-type="external"><span id="StBttn4label" class="b2label">DONATE</span></a></div>
+</div>
+</div>
+</div>
+</div>
+<div id="WRchTxt1a" class="txtNew" data-packed="true">
+<p class="font_8">A gift for charity, humanitarian aid, or to benefit a cause.&nbsp; including money, alms, services, or goods such as clothing, toys, food etc.</p>
+</div>
+<div id="WPht1-vtt" class="ca1" title="LEV.png" data-is-responsive="false" data-display-mode="fill" data-content-padding-horizontal="0" data-content-padding-vertical="0" data-exact-height="105">
+<div id="WPht1-vttlink" class="ca1link"><img id="WPht1-vttimgimage" src="https://static.wixstatic.com/media/84770f_ff41be4acfd7452588a06cf63ef9416d.png/v1/fill/w_105,h_105,al_c,q_85,usm_0.66_1.00_0.01/84770f_ff41be4acfd7452588a06cf63ef9416d.webp" alt="" data-type="image" /></div>
+</div>
+<div id="Cntnr6" class="c1">
+<div class="c1_fl c1_ribbon">&nbsp;</div>
+<div class="c1_fr c1_ribbon">&nbsp;</div>
+<div id="Cntnr6bg" class="c1bg">&nbsp;</div>
+<div id="Cntnr6inlineContent" class="c1inlineContent">
+<div id="Cntnr6inlineContent-gridWrapper" data-mesh-internal="true">
+<div id="Cntnr6inlineContent-gridContainer" data-mesh-internal="true">
+<div id="StBttn5" class="b2" data-align="center" data-disabled="false" data-margin="0" data-should-use-flex="true" data-width="160" data-height="31" data-state="desktop shouldUseFlex center"><a id="StBttn5link" class="g-transparent-a b2link" href="https://ronnieadamz86.wixsite.com/healtheworldug/get_involved" target="_self"><span id="StBttn5label" class="b2label">GET INVOLVED</span></a></div>
+</div>
+</div>
+</div>
+</div>
+<div id="WRchTxt17" class="txtNew" data-packed="true">
+<p class="font_8">It's all about trust<br />Have you thought of working for charity, try now.</p>
+<p class="font_8">We are Mind. And we only exist because of the amazing support of people like you</p>
+<p class="font_8">We want you to know that we really value your support, whether that&rsquo;s through taking action, giving up your time, being a member, fundraising on our behalf, making a gift in your will, supporting our s donations. We are committed to treating you with respect and openness, so we've made a promise to you.</p>
+</div>
+<div id="WPht3-1d6b" class="ca1" title="HAND1.png" data-is-responsive="false" data-display-mode="fill" data-content-padding-horizontal="0" data-content-padding-vertical="0" data-exact-height="105">
+<div id="WPht3-1d6blink" class="ca1link"><img id="WPht3-1d6bimgimage" src="https://static.wixstatic.com/media/84770f_015d1b7456f64adf987554bc673876c0.png/v1/fill/w_105,h_105,al_c,q_85,usm_0.66_1.00_0.01/84770f_015d1b7456f64adf987554bc673876c0.webp" alt="" data-type="image" /></div>
+</div>
+<div id="Cntnrg" class="c1">
+<div class="c1_fl c1_ribbon">&nbsp;</div>
+<div class="c1_fr c1_ribbon">&nbsp;</div>
+<div id="Cntnrgbg" class="c1bg">&nbsp;</div>
+<div id="CntnrginlineContent" class="c1inlineContent">
+<div id="CntnrginlineContent-gridWrapper" data-mesh-internal="true">
+<div id="CntnrginlineContent-gridContainer" data-mesh-internal="true">
+<div id="StBttn2" class="b2" data-align="center" data-disabled="false" data-margin="0" data-should-use-flex="true" data-width="147" data-height="31" data-state="desktop shouldUseFlex center"><a id="StBttn2link" class="g-transparent-a b2link" href="https://ronnieadamz86.wixsite.com/healtheworldug/about_us" target="_self"><span id="StBttn2label" class="b2label">OUR MISSION</span></a></div>
+</div>
+</div>
+</div>
+</div>
+<div id="WRchTxt1q" class="txtNew" data-packed="true">
+<p class="font_8">Mission Health.It provides free hospital care for patients who have received non-elective care, do not meet the qualifications for Medicaid and whose income is less than 200%&nbsp;</p>
+</div>
+<div id="StBttn3" class="b1" data-align="center" data-disabled="false" data-margin="0" data-should-use-flex="true" data-width="246" data-height="43" data-state="desktop shouldUseFlex center">&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
